@@ -1,0 +1,10 @@
+shape_predictor_68_face_landmarks.dat
+venv
+Dataset
+fer2013_features
+temp.jpg
+best_model
+checkpoints
+__pycache__
+logs
+.vscode
